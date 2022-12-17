@@ -2,5 +2,4 @@
 <div align="center">
   <h1>Shapy GitHub sayfasına hoş geldin.</h1>
   <a href="https://shapy.com.tr/">Website</a> - <a href="https://shapy.com.tr/invite">Sunucuna Ekle</a> - <a href="https://shapy.com.tr/destek">Destek Sunucusu</a>
-  [Website](https://shapy.com.tr/) - [Sunucuna Ekle](https://shapy.com.tr/invite) - [Destek Sunucusu](https://shapy.com.tr/destek)
 </div>
